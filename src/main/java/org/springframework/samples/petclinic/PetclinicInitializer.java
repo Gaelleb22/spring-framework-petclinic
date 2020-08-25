@@ -36,7 +36,7 @@ import javax.servlet.ServletContext;
  *
  * @author Antoine Rey
  */
-public class PetclinicInitializer extends AbstractDispatcherServletInitializer {
+public class PetclinicInitializer extends  {
 
     /**
      * Spring profile used to choose the persistence layer implementation.
